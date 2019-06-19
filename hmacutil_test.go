@@ -4,7 +4,7 @@ import "testing"
 
 var (
 	secretKey = "secret_key"
-	data      = "github.com/tiendung1510/hmacutil"
+	data      = "github.com/zpmep/hmacutil"
 )
 
 func TestHexStringEncode(t *testing.T) {

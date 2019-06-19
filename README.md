@@ -5,7 +5,7 @@ Small HMAC utilities for Golang
 ## Download
 
 ```bash
-go get github.com/tiendung1510/hmacutil
+go get github.com/zpmep/hmacutil
 ```
 
 ## Features
